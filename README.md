@@ -29,7 +29,7 @@ An end-to-end data analytics project using Python, Pandas, and PostgreSQL to ana
 - `customer.ipynb` — Data cleaning and preparation.
 - `customer_behavior_combined.sql` — SQL queries for basic and advanced analysis.
 
-  ## Dashboard Preview
+## Dashboard Preview
 
 ![Customer Behavior Dashboard](images/customer-behavior-dashboard.png)
 
