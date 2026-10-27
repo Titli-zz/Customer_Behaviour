@@ -42,10 +42,4 @@ The dashboard visualizes customer subscription status, average purchase amount, 
 4. Load the cleaned dataset into PostgreSQL.
 5. Execute the SQL queries in `customer_behavior_combined.sql`.
 
-customer-shopping-behavior-analysis/
-├── README.md
-├── LICENSE
-├── customer.ipynb
-├── customer_behavior_combined.sql
-└── images/
-    └── customer-behavior-dashboard.png
+
