@@ -31,7 +31,7 @@ An end-to-end data analytics project using Python, Pandas, and PostgreSQL to ana
 
 ## Dashboard Preview
 
-![Customer Behavior Dashboard](images/customer-behavior-dashboard.png)
+![Customer Behavior Dashboard](customer-behavior-dashboard.png)
 
 The dashboard visualizes customer subscription status, average purchase amount, review ratings, category sales and revenue, and purchasing patterns across age groups. It also includes interactive filters for gender, subscription status, category, and shipping type.
 
