@@ -29,9 +29,23 @@ An end-to-end data analytics project using Python, Pandas, and PostgreSQL to ana
 - `customer.ipynb` — Data cleaning and preparation.
 - `customer_behavior_combined.sql` — SQL queries for basic and advanced analysis.
 
+  ## Dashboard Preview
+
+![Customer Behavior Dashboard](images/customer-behavior-dashboard.png)
+
+The dashboard visualizes customer subscription status, average purchase amount, review ratings, category sales and revenue, and purchasing patterns across age groups. It also includes interactive filters for gender, subscription status, category, and shipping type.
+
 ## How to Run
 1. Open `customer.ipynb` in Jupyter Notebook.
 2. Install the required Python libraries.
 3. Run the notebook cells to prepare the data.
 4. Load the cleaned dataset into PostgreSQL.
 5. Execute the SQL queries in `customer_behavior_combined.sql`.
+
+customer-shopping-behavior-analysis/
+├── README.md
+├── LICENSE
+├── customer.ipynb
+├── customer_behavior_combined.sql
+└── images/
+    └── customer-behavior-dashboard.png
